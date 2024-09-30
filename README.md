@@ -10,5 +10,5 @@ Feel free to contribute or use these notes as a reference for your learning jour
 
 ## Table of Contents
 
-1. [Episode-01 |Microservices vs Monolith - How to Build a Project]([[https://github.com/Er-Mithleshsharma/Namaste-Nodejs-Notes/tree/main/Episode-01%20%20Introduction%20to%20NodeJS](https://github.com/himuuuuuuuuu/Namaste-Nodejs-Notes1-Season2/tree/master/Episode-01%20Microservices%20vs%20Monolith%20-How%20to%20Build%20a%20Project)])
-2. [Episode-02 | Features, HLD,LLD & Planning]([[https://github.com/Er-Mithleshsharma/Namaste-Nodejs-Notes/tree/main/Episode-02%20%20JS%20on%20Server](https://github.com/himuuuuuuuuu/Namaste-Nodejs-Notes1-Season2/tree/master/Episode%20-02%20Features%2C%20HLD%2C%20LLD%20%26%20Planning)]))
+1. [Episode-01 |Microservices vs Monolith - How to Build a Project]
+2. [Episode-02 | Features, HLD,LLD & Planning]
