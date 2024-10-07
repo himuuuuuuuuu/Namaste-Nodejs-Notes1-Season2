@@ -10,5 +10,38 @@ Feel free to contribute or use these notes as a reference for your learning jour
 
 ## Table of Contents
 
-1. [Episode-01 |Microservices vs Monolith - How to Build a Project]
-2. [Episode-02 | Features, HLD,LLD & Planning]
+1. [Episode-01] Microservices vs Monolith - How to Build a Project
+2. [Episode-02] Features, HLD,LLD & Planning
+
+
+## 🔥 Clone this Repository
+
+You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
+
+```bash
+  git clone "https://github.com/himuuuuuuuuu/Namaste-Nodejs-Notes1-Season2"
+```
+
+Go to the project directory
+
+```bash
+  cd Namaste-Nodejs-Notes1-Season2
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+This application should now be running on `localhost`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+
+## ✨ Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
